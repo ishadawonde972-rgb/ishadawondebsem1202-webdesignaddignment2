@@ -50,19 +50,12 @@
         <li>Modern buttons</li>
         <li>Clean layout based on wireframe</li>
     </ul>
+>
 
-    <h2>Screenshots</h2>
-    <p>(Add your screenshots here)</p>
-
-    <h2>GitHub Repository</h2>
-    <p>(Add your repository link here)</p>
-
-    <h2>Author</h2>
-    <p>Your Name<br>
+    <h2>ishadawonde</h2>
+    <p>Ybsem>
     Limkokwing University of Creative Technology<br>
     Sierra Leone</p>
 
-    <h2>Submission</h2>
-    <p>Course: DCOMP204 – Web Design 1<br>
-    Assignment: DPG Idea + Sketch + Landing Page</p>
+    
 #
